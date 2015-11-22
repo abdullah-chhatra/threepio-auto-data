@@ -22,6 +22,8 @@
     * Upper snake case (UPPER_SNAKE_CASE)
     * Lower hyphen case (lower-hyphen-case)
 
+####Common features
+
 1. Listen to read and write events to do extra processing if required.
 2. Generating public and protected constructors for easy use.
 3. Options to control adding or removing suffix from generated class.
