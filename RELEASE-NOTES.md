@@ -25,10 +25,6 @@
 ####Common features
 
 1. Listen to read and write events to do extra processing if required.
-2. Generating public and protected constructors for easy use.
-3. Options to control adding or removing suffix from generated class.
-
-3. Listing to read and write events to do extra processing if required.
-4. Generating public and protected constructors of base class for easy use.
-5. Options to control adding or removing suffix of generated class.
+2. Generating public and protected constructors of base class for easy use.
+3. Options to control adding or removing suffix of generated class.
 
