@@ -4,6 +4,7 @@ Hand coding value objects that implements Parcelable to pass around Activities o
 
 Visit following wiki pages to know how to use the library:
 
-* Add library to your poject.
-* Auto genrate Parcelable class.
-* Auto gnerate JSON parsable class.
+* [Add library to your project](https://github.com/abdullah-chhatra/threepio-auto-data/wiki/Adding-library-to-your-project)
+* [Generate Parcelable parse definition](https://github.com/abdullah-chhatra/threepio-auto-data/wiki/Generate-Parcelable-parse-definition)
+* [Generate JSON parse defintion](https://github.com/abdullah-chhatra/threepio-auto-data/wiki/Generate-JSON-parse-definition)
+* [Code generation options](https://github.com/abdullah-chhatra/threepio-auto-data/wiki/Code-generation-options)
