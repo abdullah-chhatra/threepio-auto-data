@@ -17,7 +17,7 @@ public interface JsonParseListener {
      *
      * @throws  JSONException
      */
-    void readJson(JSONObject in) throws JSONException;
+    void onReadJson(JSONObject in) throws JSONException;
 
     /**
      * Called at the end of writing JSON from <code>JsonParsable.toJson()</code> method.
@@ -27,5 +27,5 @@ public interface JsonParseListener {
      *
      * @throws  JSONException
      */
-    void writeJson(JSONObject out) throws JSONException;
+    void onWriteJson(JSONObject out) throws JSONException;
 }

@@ -14,7 +14,7 @@ public interface ParcelListener {
      * @param   in
      *          Parcel to read from.
      */
-    void readFromParcel(Parcel in);
+    void onReadParcel(Parcel in);
 
     /**
      * Called at the end of writing to <code>Parcel</code> from method
@@ -22,6 +22,9 @@ public interface ParcelListener {
      *
      * @param   out
      *          Parcel to write into.
+     *
+     * @param   flags
+     *          Additional flags about how the object should be written.
      */
-    void writeToParcel(Parcel out);
+    void onWriteParcel(Parcel out, int flags);
 }
