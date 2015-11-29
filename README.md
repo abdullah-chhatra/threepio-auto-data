@@ -8,3 +8,4 @@ Visit following wiki pages to know how to use the library:
 * [Generate Parcelable parse definition](https://github.com/abdullah-chhatra/threepio-auto-data/wiki/Generate-Parcelable-parse-definition)
 * [Generate JSON parse defintion](https://github.com/abdullah-chhatra/threepio-auto-data/wiki/Generate-JSON-parse-definition)
 * [Code generation options](https://github.com/abdullah-chhatra/threepio-auto-data/wiki/Code-generation-options)
+* [When using ProGuard](https://github.com/abdullah-chhatra/threepio-auto-data/wiki/When-using-ProGuard)
